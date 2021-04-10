@@ -1,0 +1,21 @@
+{
+  "title": "Backcountry Basics",
+  "url": "https://backcountrybasics.org/",
+  "language": "en",
+  "description": "Articles and tips to help you enjoy the outdoors",
+  "feed": {
+    "subtitle": "Articles and tips to help you enjoy the outdoors",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://backcountrybasics.org/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://backcountrybasics.org/feed/feed.json"
+  },
+  "author": {
+    "name": "Nathan",
+    "email": "youremailaddress@example.com",
+    "url": "https://backcountrybasics.org/about-me/"
+  }
+}
