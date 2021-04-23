@@ -2,6 +2,15 @@
 layout: layouts/base.njk
 templateClass: tmpl-post
 ---
+<script
+    type="text/javascript"
+    async defer
+    src="//assets.pinterest.com/js/pinit.js"
+></script>
+<section class="tag-list">
+  {% include 'tags-list.njk' %}
+  </section>
+<section class="content">
 <h1>{{ title }}</h1>
 
 <time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>
@@ -9,15 +18,19 @@ templateClass: tmpl-post
 {%- set tagUrl %}/tags/{{ tag | slug }}/{% endset -%}
 <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
 {%- endfor %}
-
+{%- if image %}
+<img src="../../{{ image | url }}">
+{%- endif %}
 {{ content | safe }}
 
+{% include 'sharing.njk' %}
 {%- set nextPost = collections.posts | getNextCollectionItem(page) %}
 {%- set previousPost = collections.posts | getPreviousCollectionItem(page) %}
-{%- if nextPost or previousPost %}
+{# {%- if nextPost or previousPost %}
 <hr>
 <ul>
   {%- if nextPost %}<li>Next: <a href="{{ nextPost.url | url }}">{{ nextPost.data.title }}</a></li>{% endif %}
   {%- if previousPost %}<li>Previous: <a href="{{ previousPost.url | url }}">{{ previousPost.data.title }}</a></li>{% endif %}
 </ul>
-{%- endif %}
+{%- endif %} #}
+</section>
