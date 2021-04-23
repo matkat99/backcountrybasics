@@ -1,0 +1,14 @@
+<section class="start-here">
+  {% for post in collections['getting started'] | reverse %}
+    <article>
+      <a href="{{ post.url | url }}">
+        <img src="{{ post.data.image | url }}">
+          {% if post.data.title %}
+            <figcaption>{{ post.data.title }}</figcaption>
+          {% else %}
+            <code>{{ post.url }}</code>
+          {% endif %}
+        </a>
+      </article>
+    {% endfor %}
+  </section>

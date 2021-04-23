@@ -4,6 +4,11 @@ eleventyNavigation:
   key: Home
   order: 1
 ---
+<h2>So what is this anyway?</h2>
+  <p>Paragraph explaining purpose of the site</p>
+  <h2>Where should I start?</h2>
+
+  {% include "start-here.njk" %}
 {% set maxPosts = collections.posts.length | min(3) %}
 <h1>Latest {% if maxPosts == 1 %}Post{% else %}{{ maxPosts }} Posts{% endif %}</h1>
 

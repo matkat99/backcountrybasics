@@ -1,0 +1,23 @@
+.tmpl-home {
+  header {
+    background-color: transparent;
+    position: absolute;
+    color: white;
+    a:link,
+    a:visited {
+      color: var(--white);
+    }
+  }
+  .scroll {
+    position: fixed;
+    color: var(--darkgray);
+    background-color: white;
+  }
+  .scroll a:link,
+  .scroll a:visited {
+    color: var(--darkgray);
+  }
+  main :first-child {
+    margin-top: 0;
+  }
+}

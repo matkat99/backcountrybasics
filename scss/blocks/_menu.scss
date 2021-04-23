@@ -1,0 +1,88 @@
+/* Menu */
+.menu__icon {
+  text-decoration: underline;
+  z-index: 10;
+  position: relative;
+}
+.menu__x-icon {
+  display: none;
+  font-size: 1.4em;
+  margin-top: -1em;
+  color: white;
+  position: relative;
+  z-index: 10;
+}
+.menu__toggle {
+  opacity: 0;
+  width: 5ch;
+  height: 1em;
+  margin-right: -5ch;
+  cursor: pointer;
+  z-index: 11;
+  position: relative;
+}
+
+.menu__toggle:checked + .menu__icon {
+  display: none;
+}
+.menu__toggle:checked ~ .menu__x-icon {
+  display: block;
+}
+
+.menu__toggle:checked ~ .menu__nav {
+  display: flex;
+  background-color: rgba(0, 0, 0, 0.7);
+  margin: 0;
+  flex-flow: column;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  height: 100vh;
+  font-size: 1.6em;
+  justify-content: center;
+  & a:link,
+  & a:visited {
+    color: white;
+  }
+}
+
+/* Nav */
+.menu__nav {
+  padding: 4em 0 3em 0;
+
+  list-style: none;
+  display: none;
+  height: 0;
+  margin-left: 1em;
+  transition: height 0.3s ease;
+  text-align: center;
+  > li {
+    margin-bottom: 0.25em;
+  }
+}
+
+.nav-item {
+  display: inline-block;
+  margin-right: 1em;
+}
+.nav-item a[href]:not(:hover) {
+  text-decoration: none;
+}
+.nav-item-active {
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+@media screen and (min-width: 30em) {
+  .menu__icon,
+  .menu__toggle {
+    display: none;
+  }
+  .menu__nav {
+    display: flex;
+    padding: 0;
+    height: auto;
+  }
+}

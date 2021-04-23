@@ -2,5 +2,11 @@
 layout: layouts/base.njk
 templateClass: tmpl-home
 ---
-<img src="/img/IMG_1111-scaled.jpg">
+<script>
+{% include 'scroll-menu.js' %}
+</script>
+<img src="/img/hero-mobile.jpg" srcset="/img/hero-mobile.jpg 400w, /img/home-banner.jpg 2000w">
+<section class="content">
+
 {{ content | safe }}
+</section>

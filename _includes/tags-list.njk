@@ -1,0 +1,6 @@
+<h2>Categories</h2>
+{% for tag in collections.tagList | filterTagList %}
+  {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
+  <a href="{{ tagUrl | url }}" class="post-tag tags_page size{{ tagNum }}">
+    {{ tag }}</a>
+{% endfor %}
