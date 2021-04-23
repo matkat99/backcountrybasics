@@ -180,7 +180,11 @@ code {
 
 /* Posts */
 .tmpl-post {
-  /* margin-top: 88px; */
+  @include breakpoint(small) {
+    .content img {
+      max-width: 35%;
+    }
+  }
 }
 
 /* Tags */

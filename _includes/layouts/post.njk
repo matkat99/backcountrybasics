@@ -19,7 +19,7 @@ templateClass: tmpl-post
 <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
 {%- endfor %}
 {%- if image %}
-<img src="../../{{ image | url }}">
+<img src="../../{{ image | url }}" class="left">
 {%- endif %}
 {{ content | safe }}
 
