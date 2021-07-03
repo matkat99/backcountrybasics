@@ -7,7 +7,7 @@ eleventyNavigation:
   order: 3
 ---
 
-<img src="./../img/sunsetmountain.jpg" alt="Image of the author" class="right" width="330">
+<img src="./../img/aboutme.jpg" alt="Image of the author" class="right" width="330">
 
 Hello and welcome to Backcountry Basics! My name is Nathan and I am a full-time university student and an avid adventurer. I love being outside and enjoying the wonders that are everywhere. I have engaged in many different recreational activities and this website is my attempt to share my experiences and knowledge with the world. Everything is geared towards those who may not be familiar with the outdoor community, but want to become more involved.
 

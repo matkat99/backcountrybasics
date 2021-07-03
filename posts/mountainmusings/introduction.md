@@ -4,6 +4,7 @@ description: Introduction to the purpose of the blog.
 date: 2021-03-31
 tags:
   - getting started
+  - mountain musings
 layout: layouts/post.njk
 image: /img/sunsetmountain-sq.jpeg
 ---
