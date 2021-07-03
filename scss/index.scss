@@ -64,7 +64,8 @@ main > :first-child {
 }
 
 .tag-list {
-  margin: 0.5em 0;
+  max-width: 960px;
+  margin: 0.5em auto;
   @include breakpoint(small) {
     padding: 0;
   }
@@ -93,7 +94,11 @@ footer {
   color: white;
   padding: var(--s1);
   margin-top: var(--s2);
-  > .donate {
+  > div {
+    max-width: 960px;
+    margin: auto;
+  }
+  .donate {
     display: flex;
     flex-flow: row wrap;
     margin-bottom: var(--s0);
@@ -158,11 +163,12 @@ code {
   padding: 0;
 }
 .postlist-item {
-  display: flex;
+  // display: flex;
   flex-wrap: wrap;
   align-items: baseline;
   counter-increment: start-from -1;
   line-height: 1.8;
+  // gap: 10px;
 }
 .postlist-item:before {
   display: inline-block;
