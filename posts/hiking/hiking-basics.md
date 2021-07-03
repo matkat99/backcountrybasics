@@ -6,7 +6,7 @@ tags:
   - hiking
   - getting started
 layout: layouts/post.njk
-image: img/dayhike-sq.jpeg
+image: /img/dayhike-sq.jpeg
 ---
 
 > “Oh, the places you’ll go!” (Dr. Seuss)

@@ -5,7 +5,7 @@ date: 2021-04-15
 tags:
   - climbing
 layout: layouts/post.njk
-image: img/climbing.jpg
+image: /img/climbing.jpg
 ---
 
 There is something special about the thrill of reaching the top of an intense climb. Being able to look around and think "yeah, I just did that!" brings a satisfaction that is hard to beat. Climbing is one of those activities that looks both incredibly simple yet strikingly complex all at the same time. The concept is very basic: get up, and then ideally back down, some sort of wall. The ways that this goal is accomplished are where climbing really gets interesting.

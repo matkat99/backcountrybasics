@@ -5,7 +5,7 @@ date: 2021-03-31
 tags:
   - getting started
 layout: layouts/post.njk
-image: img/sunsetmountain-sq.jpeg
+image: /img/sunsetmountain-sq.jpeg
 ---
 
 <!-- ![img/sunsetmountain.jpg](../../img/sunsetmountain.jpg "Mountain image") -->

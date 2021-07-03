@@ -6,7 +6,7 @@ tags:
   - camping
   - getting started
 layout: layouts/post.njk
-image: img/Camping-2.jpg
+image: /img/Camping-2.jpg
 ---
 
 I think that it would be safe to say that while almost everyone knows what camping is, not everyone has the same vision for how to do it. It is not uncommon when someone says “I’m going camping this weekend” to really mean “I’m going to stay in my trailer or RV where I can have plumbing and climate control, but it is at a campsite so I can call it camping.” I would claim that this isn’t really camping though, not when you’re stuck inside a big box you drive around. To me, part of what makes camping, camping is the vulnerability of facing the natural world. Sure you may have a tent or other sort of shelter, but there is still exposure to the elements. I believe that this is what really allows us to connect with nature and heed the call of the mountains.
