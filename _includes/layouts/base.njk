@@ -3,9 +3,14 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ title or metadata.title }}</title>
+    <title>{{ metadata.title + ' | ' + title or metadata.title }}</title>
     <meta name="description" content="{{ description or metadata.description }}">
-    <link rel="stylesheet" href="{{ '/css/index.min.css' | url }}">
+    <meta property="og:url" content="{{ metadata.url + page.url }}"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:title" content="{{ metadata.title + ' | ' + title }}"/>
+    <meta property="og:description" content="{{ description or metadata.description }}"/>
+    <meta property="og:image" content="https://www.your-domain.com/path/image.jpg"/>
+    <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
     <link rel="stylesheet" href="{{ '/css/prism-base16-monokai.dark.css' | url }}">
     <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
     <link rel="alternate" href="{{ metadata.jsonfeed.path | url }}" type="application/json" title="{{ metadata.title }}">
@@ -35,7 +40,7 @@
       {{ content | safe }}
     </main>
     <footer>
-      <section class="col-sm-4">
+      <section class="donate">
         <div id="text-7" class="widget widget_text">
           <p>If you have enjoyed my articles, make a donation to support future content! Any contribution is greatly appreciated!</p>
           <p>-Nathan</p>
@@ -43,8 +48,13 @@
         <form action="https://www.paypal.com/donate" method="post" target="_top">
           <input type="hidden" name="business" value="APWBJ96N42LZA"/>
           <input type="hidden" name="currency_code" value="USD"/>
-          <input
-          type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button"/>
+        <input
+          type="image"
+            src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif"
+            border="0"
+            name="submit"
+            title="PayPal - The safer, easier way to pay online!"
+            alt="Donate with PayPal button"/>
         {# <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" /> #}
         </form>
       </section>

@@ -3,10 +3,9 @@ title: Introduction.
 description: Introduction to the purpose of the blog.
 date: 2021-03-31
 tags:
-  - Introduction
   - getting started
 layout: layouts/post.njk
-image: img/sunsetmountain.jpg
+image: img/sunsetmountain-sq.jpeg
 ---
 
 <!-- ![img/sunsetmountain.jpg](../../img/sunsetmountain.jpg "Mountain image") -->

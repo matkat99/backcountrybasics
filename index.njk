@@ -1,16 +1,28 @@
 ---
+title: home
 layout: layouts/home.njk
 eleventyNavigation:
   key: Home
   order: 1
 ---
-<h2>So what is this anyway?</h2>
-  <p>Paragraph explaining purpose of the site</p>
-  <h2>Where should I start?</h2>
+<section class="tag-list vertical">
+  {% include 'tags-list.njk' %}
+  </section>
+  <article class="hero">
+  <img src="/img/bechler-topo.png">
+  <section class="intro">
+<h2>Welcome to Backcountry Basics</h2>
+  <p>This site started out as a way to share my love of the outdoors, and hopefully in some small way encourage others to spend more time there. Check out one of the categories.  Thanks for reading</p>
+  <p class="signature">Nathan</p>
+  </section>
+  <section class="hero__start">
+  {# <h3>Where should I start?</h3> #}
 
   {% include "start-here.njk" %}
-{% set maxPosts = collections.posts.length | min(3) %}
-<h1>Latest {% if maxPosts == 1 %}Post{% else %}{{ maxPosts }} Posts{% endif %}</h1>
+  <section>
+  </article>
+{% set maxPosts = collections.posts.length | min(5) %}
+<h2>Latest {% if maxPosts == 1 %}Post{% else %} Posts{% endif %}</h2>
 
 {% set postslist = collections.posts | head(-3) %}
 {% set postslistCounter = collections.posts | length %}

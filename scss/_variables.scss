@@ -1,13 +1,15 @@
 /* Colors */
 /* https://coolors.co/2f6d83-4c061d-d17a22-b4c292-c7eae4 */
 //set breakpoint sizes
-$break-small: 30em;
+$break-small: 37em;
 $break-large: 60em;
 
 :root {
   --lightgray: #e0e0e0;
   --gray: #c0c0c0;
   --darkgray: #333;
+  --background: #f5f7f3;
+  --background-alpha: rgba(245, 247, 243, 0.8);
   --navy: #17050f;
   --blue: #082840;
   --white: #fff;

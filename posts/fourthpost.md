@@ -3,7 +3,7 @@ title: This is my fourth post.
 description: This is a post on My Blog about touchpoints and circling wagons.
 author: Nathan
 date: 2018-09-30
-tags: second tag
+tags: hiking
 layout: layouts/post.njk
 ---
 
@@ -14,3 +14,6 @@ Bring to the table win-win survival strategies to ensure proactive domination. A
 ## Section Header
 
 Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+
+- list item 1
+- list item 2

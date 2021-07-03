@@ -48,12 +48,18 @@
   overflow: hidden;
 }
 
-.left {
-  float: left;
-  margin-right: var(--s1);
+@include breakpoint(small) {
+  .left {
+    float: left;
+    margin-right: var(--s1);
+  }
+
+  .right {
+    float: right;
+    margin-left: var(--s1);
+  }
 }
 
-.right {
-  float: right;
-  margin-left: var(--s1);
+.signature {
+  text-align: right;
 }

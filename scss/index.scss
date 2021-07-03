@@ -1,10 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap");
 @import "variables";
-@import "utilities";
-@import "social";
-@import "blocks/tmpl-home";
-@import "blocks/menu";
-@import "blocks/start-here";
 
 /* Global stylesheet */
 * {
@@ -13,11 +8,12 @@
 
 html,
 body {
+  font-size: 18px;
   padding: 0;
   margin: 0;
   font-family: var(--body-font);
   color: var(--darkgray);
-  background-color: var(--white);
+  // background-color: var(--background);
   font-weight: 100;
 }
 img {
@@ -45,30 +41,43 @@ blockquote {
   }
 }
 
-a[href] {
-  color: var(--blue);
+a {
+  color: var(--darkgray);
 }
-a[href]:visited {
-  color: var(--navy);
+a:visited {
+  color: var(--darkgray);
 }
 main {
-  /* padding: 1rem; */
-  // height: 2000px;
+  // margin-top: var(--s5);
 }
 main > :first-child {
-  margin-top: var(--s3);
+  margin-top: var(--s5);
 }
 .content {
   max-width: 960px;
-  margin: auto;
+
   padding: 0.5em;
+  line-height: 2em;
+  @include breakpoint(small) {
+    margin: var(--s-1) auto;
+  }
 }
+
+.tag-list {
+  margin: 0.5em 0;
+  @include breakpoint(small) {
+    padding: 0;
+  }
+}
+
 header {
   transition: background-color 0.4s ease;
   padding: 0 0.5em;
   position: fixed;
   top: 0;
   background-color: white;
+  // background-color: var(--primary-color);
+
   width: 100%;
   > div {
     display: flex;
@@ -84,7 +93,14 @@ footer {
   color: white;
   padding: var(--s1);
   margin-top: var(--s2);
+  > .donate {
+    display: flex;
+    flex-flow: row wrap;
+    margin-bottom: var(--s0);
+    gap: var(--s0);
+  }
 }
+
 pre,
 code {
   font-family: Consolas, Menlo, Monaco, "Andale Mono WT", "Andale Mono",
@@ -196,15 +212,18 @@ code {
   font-size: 0.6875em; /* 11px /16 */
   padding: 0.09090909090909em 0.3636363636364em; /* 1px 4px /11 */
   margin-left: 0.8em; /* 8px /10 */
-  color: var(--darkgray);
+  color: white;
+  font-weight: bold;
+  background-color: var(--accent1);
   border: 1px solid var(--gray);
   border-radius: 0.25em; /* 3px /12 */
   text-decoration: none;
   line-height: 1.8;
+  // background-color: white;
 }
 a[href].post-tag,
 a[href].post-tag:visited {
-  color: inherit;
+  color: white;
 }
 a[href].post-tag:hover,
 a[href].post-tag:focus {
@@ -212,6 +231,10 @@ a[href].post-tag:focus {
 }
 .postlist-item > .post-tag {
   align-self: center;
+}
+
+.intro {
+  max-width: 40ch;
 }
 
 /* Direct Links / Markdown Headers */
@@ -231,3 +254,10 @@ a[href].direct-link:focus:visited,
 :hover > a[href].direct-link:visited {
   color: #aaa;
 }
+
+@import "utilities";
+@import "social";
+@import "blocks/tmpl-home";
+@import "blocks/menu";
+@import "blocks/start-here";
+@import "blocks/hero";
