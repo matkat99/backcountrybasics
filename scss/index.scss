@@ -163,12 +163,12 @@ code {
   padding: 0;
 }
 .postlist-item {
-  display: flex;
+  // display: flex;
   flex-wrap: wrap;
   align-items: baseline;
   counter-increment: start-from -1;
   line-height: 1.8;
-  gap: 10px;
+  // gap: 10px;
 }
 .postlist-item:before {
   display: inline-block;
