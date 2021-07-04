@@ -3,7 +3,7 @@ title: Adventures in the Subway
 description: Canyoneering adventure through the Zion Subway
 date: 2021-05-29
 tags:
-  - adventure post
+  - adventure
 layout: layouts/post.njk
 image: /img/subwayadventure.jpg
 ---

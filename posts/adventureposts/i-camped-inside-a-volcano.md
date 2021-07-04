@@ -3,7 +3,7 @@ title: I Camped Inside a Volcano!
 description: Backpacking trip through Craters of the Moon
 date: 2021-05-01
 tags:
-  - adventure post
+  - adventure
 layout: layouts/post.njk
 image: /img/volcanocamping.jpg
 ---

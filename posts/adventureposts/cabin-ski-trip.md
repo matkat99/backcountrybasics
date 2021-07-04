@@ -3,7 +3,7 @@ title: Cabin Ski Trip
 description: Ski adventure to the cabin
 date: 2021-03-31
 tags:
-  - adventure post
+  - adventure
 layout: layouts/post.njk
 image: /img/cabinskitrip.jpg
 ---

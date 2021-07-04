@@ -261,6 +261,10 @@ a[href].direct-link:focus:visited,
   color: #aaa;
 }
 
+.capitalize {
+text-transform: capitalize;
+}
+
 @import "utilities";
 @import "social";
 @import "blocks/tmpl-home";
