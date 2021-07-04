@@ -1,6 +1,6 @@
 ---
-title: Camping Basics.
-description: Getting started with camping.
+title: Camping Basics
+description: Getting started with camping
 date: 2021-03-31
 tags:
   - camping

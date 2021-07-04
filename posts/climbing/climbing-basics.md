@@ -1,6 +1,6 @@
 ---
-title: Climbing Basics.
-description: Getting started with climbing.
+title: Climbing Basics
+description: Getting started with climbing
 date: 2021-04-15
 tags:
   - climbing

@@ -1,6 +1,6 @@
 ---
-title: Hiking Basics.
-description: Introduction to hiking.
+title: Hiking Basics
+description: Introduction to hiking
 date: 2021-03-31
 tags:
   - hiking

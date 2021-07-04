@@ -1,6 +1,6 @@
 ---
-title: Mountain Biking Basics.
-description: Getting started with mountain biking.
+title: Mountain Biking Basics
+description: Getting started with mountain biking
 date: 2021-04-10
 tags:
   - biking

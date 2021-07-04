@@ -1,6 +1,6 @@
 ---
-title: Mountain Biking Gear List.
-description: What you need to start mountain biking.
+title: Mountain Biking Gear List
+description: What you need to start mountain biking
 date: 2021-05-08
 tags:
   - biking
