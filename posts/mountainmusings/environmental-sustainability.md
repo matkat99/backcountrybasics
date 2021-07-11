@@ -5,7 +5,7 @@ date: 2021-07-11
 tags:
   - mountain musings
 layout: layouts/post.njk
-image: /img/environmental-sustainability.jpeg
+image: /img/environmental-sustainability.jpg
 ---
 
 > “The times, they are a changing” —Bob Dylan
