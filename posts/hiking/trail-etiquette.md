@@ -5,7 +5,7 @@ date: 2021-07-17
 tags:
   - hiking
 layout: layouts/post.njk
-image: /img/hikingetiquette.jpeg
+image: /img/hikingetiquette.jpg
 ---
 
 With the number of people who are trying to spend more time outside than inside, it is becoming more and more important to remember good trail etiquette. Having gone on outdoor excursions with my family for most of my life, I occasionally get into the mindset that these are "my trails". This possessive mindset is incorrect and one that I have to remedy at times. I am certain that I am not alone with these thoughts, if you have been on any trail several times, you begin to connect with it. That connection is important, but it also sadly leads many to believe that they own the area. Soon enough there may not be any "personal trails" so we must learn how to share the path and get along with each other.
