@@ -1,6 +1,6 @@
 ---
 title: Be Prepared
-description: Preparation for life
+description: Preparation for adventures
 date: 2021-07-24
 tags:
   - mountain musings
@@ -8,7 +8,7 @@ layout: layouts/post.njk
 image: /img/beprepared.jpg
 ---
 
-Be Prepared
+>Be Prepared – Scouts BSA Motto
 
 As a young Boy Scout, the phrase “Be Prepared” was ingrained into my mind, but I don’t believe that I fully appreciated the breadth and importance of that statement. As I have grown older, I have taken more time to ponder what exactly it means to be prepared and why it is so important to apply the simple principle of preparedness.
 
