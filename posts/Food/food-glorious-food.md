@@ -4,6 +4,7 @@ description: What to eat in the wilderness
 date: 2021-06-13
 tags:
   - camping
+  - food
 layout: layouts/post.njk
 image: /img/food.jpg
 ---
