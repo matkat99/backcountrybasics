@@ -22,7 +22,8 @@ Although camping can be a lot of fun, there is a lot of work which has to be don
 - running out of gas/fuel (for your car or stove)
 - getting lost
 - some sort of injury or sickness
-What I am getting at is that there are lots of things that could go wrong, and I have experienced almost every one of these at some time. As you embark on different adventures,there is a good chance that at least one thing will go wrong on every single campout so you may as well know how to deal with it. Here are a few things that I like to do to avoid mishaps and address them as they occur.
+
+What I am getting at is that there are lots of things that could go wrong, and I have experienced almost every one of these at some time. As you embark on different adventures, there is a good chance that at least one thing will go wrong on every single campout so you may as well know how to deal with it. Here are a few things that I like to do to avoid mishaps and address them as they occur.
 
 ### Make a packing list
 
