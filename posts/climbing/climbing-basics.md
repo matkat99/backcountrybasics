@@ -4,7 +4,7 @@ description: Getting started with climbing
 date: 2021-04-15
 tags:
   - climbing 
-  - getting started
+
 layout: layouts/post.njk
 image: /img/climbing.jpg
 ---

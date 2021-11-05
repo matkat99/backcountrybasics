@@ -4,7 +4,7 @@ description: Basics of rafting
 date: 2021-04-24
 tags:
   - boating
-  - getting started
+
 layout: layouts/post.njk
 image: /img/raftingbasics.jpg
 ---

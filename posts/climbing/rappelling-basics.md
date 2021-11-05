@@ -4,7 +4,7 @@ description: Getting started with rappelling
 date: 2021-06-07
 tags:
   - climbing 
-  - getting started
+
 layout: layouts/post.njk
 image: /img/rappellingbasics.jpg
 ---

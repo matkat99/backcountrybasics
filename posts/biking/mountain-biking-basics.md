@@ -4,7 +4,7 @@ description: Getting started with mountain biking
 date: 2021-04-10
 tags:
   - biking
-  - getting started
+ 
 layout: layouts/post.njk
 image: /img/mountainbikingbasics.jpg
 ---

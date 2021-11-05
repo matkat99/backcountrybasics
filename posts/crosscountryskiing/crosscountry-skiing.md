@@ -4,7 +4,7 @@ description: Basics of cross-country skiing
 date: 2021-03-31
 tags:
   - skiing
-  - getting started
+  
 layout: layouts/post.njk
 image: /img/crosscountryskiingbasics.jpg
 ---
