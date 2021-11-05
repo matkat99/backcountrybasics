@@ -204,7 +204,7 @@ code {
 .tmpl-post {
   @include breakpoint(small) {
     .content img {
-      max-width: 35%;
+      // max-width: 35%;
     }
   }
 }
@@ -262,7 +262,7 @@ a[href].direct-link:focus:visited,
 }
 
 .capitalize {
-text-transform: capitalize;
+  text-transform: capitalize;
 }
 
 @import "utilities";
