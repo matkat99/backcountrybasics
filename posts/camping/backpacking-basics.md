@@ -4,6 +4,7 @@ description: Introduction to Backpacking
 date: 2021-05-23
 tags:
   - camping
+  - getting started
 layout: layouts/post.njk
 image: /img/backpackingbasics.jpg
 ---

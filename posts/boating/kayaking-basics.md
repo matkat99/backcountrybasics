@@ -4,6 +4,7 @@ description: Basics of kayaking
 date: 2021-05-16
 tags:
   - boating
+  - getting started
 layout: layouts/post.njk
 image: /img/kayakingbasics.jpg
 ---

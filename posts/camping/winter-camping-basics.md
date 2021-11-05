@@ -3,7 +3,8 @@ title: Winter Camping Basics
 description: Introduction to Winter Camping
 date: 2021-03-31
 tags:
-  - camping
+  - camping 
+  - getting started
 layout: layouts/post.njk
 image: /img/wintercampingbasics.jpg
 ---
