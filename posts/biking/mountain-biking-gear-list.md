@@ -4,6 +4,7 @@ description: What you need to start mountain biking
 date: 2021-05-08
 tags:
   - biking
+  - gear list
 layout: layouts/post.njk
 image: /img/mountainbikinggearlist.jpg
 ---

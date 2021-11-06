@@ -4,6 +4,7 @@ description: What you need to start rappelling
 date: 2021-06-20
 tags:
   - climbing
+  - gear list
 layout: layouts/post.njk
 image: /img/rappellinggearlist.jpg
 ---

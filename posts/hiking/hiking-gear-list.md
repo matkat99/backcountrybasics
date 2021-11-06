@@ -4,6 +4,7 @@ description: What to bring when hiking
 date: 2021-03-31
 tags:
   - hiking
+  - gear list
 layout: layouts/post.njk
 image: /img/dayhike-sq.jpeg
 ---
