@@ -5,7 +5,7 @@ date: 2021-03-31
 tags:
   - mountain musings
 layout: layouts/post.njk
-image: /img/fire.jpeg
+image: /img/fire.jpg
 ---
 
 Energy flows through everything. It is neither created nor destroyed but rather changed from one form to another. It looks for a way to escape and move; it yearns to be free. 
