@@ -4,6 +4,7 @@ description: Getting started with camping
 date: 2021-03-31
 tags:
   - camping
+  - activities
   - getting started
 layout: layouts/post.njk
 image: /img/Camping-2.jpg
@@ -13,6 +14,7 @@ I think that it would be safe to say that while almost everyone knows what campi
 To me, part of what makes camping, camping is the vulnerability of facing the natural world. Sure you may have a tent or other sort of shelter, but there is still exposure to the elements. I believe that this is what allows us to connect with nature and heed the call of the mountains.
 
 Although camping can be a lot of fun, there is a lot of work which has to be done before you can go out and enjoy yourself. In this and future articles, I hope to break down the basics of everything you need to know in order to have a great time hanging out in the wild. Like everything else, you need to make the necessary preparations to avoid any unforeseen tragedies. These "tragedies" include but are not limited to:
+
 - not having enough food or water
 - forgetting to reserve a campsite
 - forgetting some piece of equipment

@@ -4,6 +4,7 @@ description: Final Summer Adventure in the south
 date: 2021-08-28
 tags:
   - adventure
+  - extras
 layout: layouts/post.njk
 image: /img/southernutahadventure.jpg
 ---

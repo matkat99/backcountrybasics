@@ -1,0 +1,10 @@
+<section class="start-here">
+  {% for post in collections[topic] | reverse %}
+    <article>
+      <a href="../tags/{{ post[0] | url }}">
+        <img src="{{ post[1] | url }}">
+          <figcaption>{{ post[0] }}</figcaption>
+        </a>
+      </article>
+    {% endfor %}
+  </section>

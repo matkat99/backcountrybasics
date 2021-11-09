@@ -48,7 +48,16 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("filterTagList", (tags) => {
     // should match the list in tags.njk
     return (tags || []).filter(
-      (tag) => ["all", "nav", "post", "posts"].indexOf(tag) === -1
+      (tag) =>
+        [
+          "all",
+          "nav",
+          "post",
+          "posts",
+          "activities",
+          "extras",
+          "getting started",
+        ].indexOf(tag) === -1
     );
   });
 
@@ -61,6 +70,38 @@ module.exports = function (eleventyConfig) {
 
     return [...tagSet];
   });
+
+  eleventyConfig.addCollection("activitiesTags", function (collection) {
+    let tagSet = new Map();
+    collection.getFilteredByTag("activities").forEach((item) => {
+      (item.data.tags || []).forEach((tag) => tagSet.set(tag, item.data.image));
+    });
+    tagSet.delete("posts");
+    tagSet.delete("activities");
+    tagSet.delete("getting started");
+    return [...tagSet];
+  });
+
+  eleventyConfig.addCollection("extrasTags", function (collection) {
+    let tagSet = new Map();
+    collection.getFilteredByTag("extras").forEach((item) => {
+      (item.data.tags || []).forEach((tag) => tagSet.set(tag, item.data.image));
+    });
+    tagSet.delete("posts");
+    tagSet.delete("activities");
+    tagSet.delete("extras");
+    return [...tagSet];
+  });
+  // eleventyConfig.addCollection("activities", function (collectionApi) {
+  //   return collectionApi.getFilteredByTags(
+  // "camping",
+  // "hiking",
+  // "biking",
+  // "boating",
+  // "climbing",
+  // "skiing"
+  //   );
+  // });
 
   // Copy the `img` and `css` folders to the output
   eleventyConfig.addPassthroughCopy("img");

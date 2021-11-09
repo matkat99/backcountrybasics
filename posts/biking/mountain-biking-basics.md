@@ -4,12 +4,13 @@ description: Getting started with mountain biking
 date: 2021-04-10
 tags:
   - biking
- 
+  - activities
+
 layout: layouts/post.njk
 image: /img/mountainbikingbasics.jpg
 ---
 
-Whether you’re sending it down some steep single track, cruising through the countryside, or slowly meandering through the forest, biking is a great way to get outside and get a good workout. With this sport’s increasing popularity, it has become commonplace to see cars on the highway with a rack full of bikes. But what about mountain biking draws in so many people? 
+Whether you’re sending it down some steep single track, cruising through the countryside, or slowly meandering through the forest, biking is a great way to get outside and get a good workout. With this sport’s increasing popularity, it has become commonplace to see cars on the highway with a rack full of bikes. But what about mountain biking draws in so many people?
 
 First, a little background on bicycles in general. They were first invented in the early 1800s and over the course of the next century were changed and refined to something very similar to the two-wheeled contraptions we use today. These bikes, however, were primarily designed for road use and didn’t have the suspension or gears that we see on mountain bikes today. In the late 1800s, the military initiated a campaign to test the capabilities of the bicycle on rough terrain. They concluded that it would work! Recreational mountain biking didn’t become popular until the 1970s, many years later. Essentially all bike advancements have been in the past 50 years! With that in mind, let’s look at some of the basics of this sport, most of which have been developed in the recent past.
 

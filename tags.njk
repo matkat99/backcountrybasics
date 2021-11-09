@@ -14,14 +14,16 @@ layout: layouts/home.njk
 eleventyComputed:
   title: Tagged “{{ tag }}”
 permalink: /tags/{{ tag | slug }}/
+templateClass: tmpl-list tmpl-home
 ---
 <section class="tag-list">
   {% include 'tags-list.njk' %}
   </section>
-
+<div>
 <h1 class="capitalize">{{ tag }}</h1>
 
 {% set postslist = collections[ tag ] %}
 {% include "postslist.njk" %}
 
 <p>See <a href="{{ '/tags/' | url }}">all tags</a>.</p>
+</div>
