@@ -1,7 +1,7 @@
 <section class="start-here">
   {% for post in collections[topic] | reverse %}
     <article>
-      <a href="../tags/{{ post[0] | url }}">
+      <a href="../tags/{{ post[0] | url | slug }}">
         <img src="{{ post[1] | url }}">
           <figcaption>{{ post[0] }}</figcaption>
         </a>
