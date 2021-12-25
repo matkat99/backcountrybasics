@@ -1,6 +1,6 @@
 ---
 title: Rappelling Basics
-description: Getting started with rappelling
+description: When all your friends are walking backward off a cliff should you do it to? I certainly would, if they were attached to a rope that is. 
 date: 2021-06-07
 tags:
   - climbing
@@ -10,7 +10,7 @@ layout: layouts/post.njk
 image: /img/rappellingbasics.jpg
 ---
 
-Standing on the edge of a hundred-foot cliff with the intent of walking off backward might not be someone’s first thought of a good time, but for me, this thought excites me! Rappelling, or descending a rope off of an edge, is often one of the most terrifying things for someone to do. I’ve taken people down intense class three and four rapids and they seem fine, but once they get to the edge of a cliff many of them start to tremble and rethink their life choices. Something in us seems to have an instinctual aversion to falling from great heights, which is probably a good thing.
+Standing on the edge of a hundred-foot cliff with the intent of walking off backward might not be someone’s first thought of a good time, but for me, this thought excites me! Rappelling, or descending a rope off of an edge, is often one of the most terrifying things for someone to do. I’ve taken people rafting down intense class three and four rapids and they seem fine, but once they get to the edge of a cliff many of them start to tremble and rethink their life choices. Something in us seems to have an instinctual aversion to falling from great heights, which is probably a good thing.
 
 All this being said, I love rappelling! Jumping down a cliff face at great speeds is exhilarating, though definitely something that you should only do after you are comfortable with rappelling slowly first.
 Rappelling shares a lot of the same equipment as climbing, though there are a few notable differences. You obviously need a helmet, harness, and rope to make it down. The rope used here is different than a traditional climbing rope because you will want a static rope (one that doesn’t stretch) when rappelling. The other piece of gear that you will need is a rappelling device. There are many different types, but the two most common are a figure eight and an ATC. Each of these creates friction on the rope so you can control the speed of your descent. When rappelling quickly I use gloves to avoid rope burn, but when going at a slower, more controlled pace, gloves aren’t necessary.

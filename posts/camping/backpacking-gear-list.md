@@ -1,6 +1,6 @@
 ---
 title: Backpacking Gear List
-description: What to bring when backpacking
+description: "The balance between too much and not enough is a delicate one. One shirt or two shirts? Three or five liters of water? How many layers should I bring? The list could go on, but they all go back to the same foundation: determining how much is too much."
 date: 2021-06-26
 tags:
   - camping

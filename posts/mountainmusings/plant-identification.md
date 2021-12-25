@@ -1,6 +1,6 @@
 ---
 title: Finding Greater Meaning in Plant Identification
-description: Learning about the world around us
+description: Plants are pretty cool, I'd recommend learning more about them
 date: 2021-09-05
 tags:
   - mountain musings

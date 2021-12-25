@@ -1,6 +1,6 @@
 ---
 title: Environmental Sustainability
-description: Musings on how to better take care of the world
+description: The world is our playground, let's stop breaking it
 date: 2021-07-11
 tags:
   - mountain musings

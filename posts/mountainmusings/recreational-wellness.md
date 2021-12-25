@@ -1,6 +1,6 @@
 ---
 title: Recreational Wellness
-description:
+description: Nature has a lot to teach us, start learning from it
 date: 2021-10-31
 tags:
   - mountain musings

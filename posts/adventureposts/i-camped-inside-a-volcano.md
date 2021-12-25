@@ -1,6 +1,6 @@
 ---
 title: I Camped Inside a Volcano!
-description: Backpacking trip through Craters of the Moon
+description: Backpacking trip through Craters of the Moon. This definitely isn't clickbait, I legitimately slept in the middle of a volcanic crater. It definitely wasn't active, but it was not too long ago geologically speaking.
 date: 2021-05-01
 tags:
   - adventure

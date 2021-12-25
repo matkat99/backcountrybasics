@@ -1,6 +1,6 @@
 ---
 title: Frying Pan Backpacking
-description: Cooking with a frying pan in the backcountry
+description: Boiling water in a pot is great for basic backpacking meals, but it can leave you wanting for something more. Introduce the backpacking frying pan, my new favorite addition to the backcountry kitchen.
 date: 2021-08-15
 tags:
   - food

@@ -1,6 +1,6 @@
 ---
 title: Camping Basics
-description: Getting started with camping
+description: The intricasies of spending a small fortune to live like a homeless person.Surprisingly, it's not very hard. You just have to watch out for a few common mistakes.
 date: 2021-03-31
 tags:
   - camping

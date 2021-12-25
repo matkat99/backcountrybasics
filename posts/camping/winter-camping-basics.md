@@ -1,6 +1,6 @@
 ---
 title: Winter Camping Basics
-description: Introduction to Winter Camping
+description: There are times when it is hard to convince yourself to get up and do something outside. The winter is one of them, especially when that "thing" is camping. There are, fortunately, plenty of things that you can do to make winter camping a great experience. 
 date: 2021-03-31
 tags:
   - camping 
@@ -15,7 +15,7 @@ Let’s be honest, winter isn’t everyone’s favorite season. It’s usually c
 
 “Camping!?” you might ask, “you must be losing your mind! Why would you ever go camping in the middle of winter!?”  While I can’t guarantee that I’m not a little crazy (the cold can do strange things to your mind),  I can explain how it is that camping in the winter is done, and how it can actually be enjoyable. So get out your heavy coats and get ready to go camping!
 
-As any good Boy Scout knows, it is important to “Be Prepared”. And while being prepared is important in any situation, I feel that it is especially important to be prepared, or even over-prepared, for winter activities. The first thing to determine is how you are going to protect yourself from the elements. Depending on where you are you could face snow, sleet, rain, freezing rain, or a combination of precipitation types. If snow is all that will come out of the sky, then my favorite way to spend the night outside is in a snow cave.
+As any good Boy Scout knows (or anyone who has spent any time camping), it is important to “Be Prepared”. And while being prepared is important in any situation, I feel that it is especially important to be prepared, or even over-prepared, for winter activities. The first thing to determine is how you are going to protect yourself from the elements. Depending on where you are you could face snow, sleet, rain, freezing rain, or a combination of precipitation types. If snow is all that will come out of the sky, then my favorite way to spend the night outside is in a snow cave.
 
 Snow caves are by far the most enjoyable way to camp outside when it’s cold if for no other reason than that it will stay around 32 degrees Fahrenheit all night. Out of context, 32 degrees sounds cold, and it certainly is, but when it’s below 0 outside then 32 feels quite balmy! The disadvantage of using a snow cave is the initial construction of your shelter. Fun fact, snow caves are not one of the products of spontaneous generation, as much as I would like them to just appear wherever I wanted to camp. You have to actually work to build your frozen fortress. I won’t go into the details of snow caves in this article, but check out my Building Snow Caves post for more info! (future post)
 

@@ -1,6 +1,6 @@
 ---
 title: Be Prepared
-description: Preparation for adventures
+description: An exposition on being prepared, it's pretty important
 date: 2021-07-24
 tags:
   - mountain musings

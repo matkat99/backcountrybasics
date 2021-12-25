@@ -1,6 +1,6 @@
 ---
 title: Adventures in Alaska Basin
-description: Trekking trough the Tetons
+description: The Teton mountain range of western Wyoming is world-renowned for its unique peaks and unparalleled views. Most people explore the area from the east side in Grand Teton National Park, but the lesser-known west side also holds many incredible meadows, valleys, peaks, and lakes accessible only on foot.
 date: 2021-08-09
 tags:
   - adventure

@@ -1,6 +1,6 @@
 ---
 title: Why I Summit Mountains
-description: An exposition on the concept of mountain amnesia
+description: Hiking is hard, hiking up mountains is even harder. Why do I (and many others) still do it? I blaim it on a condition that I like to call mountain amnesia.
 date: 2021-12-05
 tags:
   - adventure

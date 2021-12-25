@@ -1,6 +1,6 @@
 ---
 title: Trail Etiquette
-description: How to be considerate on the trail
+description: Because trail traffic is increasing it is even more important to understand basic trail etiquette. Here are a few suggestions for how to act on the trail and at the destination of your trip.
 date: 2021-07-17
 tags:
   - hiking
@@ -21,6 +21,6 @@ Another point to consider is what happens when there is a group that is going fa
 
 Whenever nature calls (you need to relieve yourself), make sure to do your business away from the trails. As well, in many places, it is no longer legal to dig a cat hole when you need to go. Pack it in, pack it out is the standard in many places so make sure to take the equipment necessary for that. WAG bags are the most common choice for taking care of your waste and cost around $6 apiece. For those places where you can dig a hole, make sure that it is at least six inches deep and that you completely fill it in when you are finished. One of the biggest causes of banning cat holes is too many people not digging deep enough holes; this leads to little white flags poking out of the ground letting everyone know where you did your business.
 
-Finally, stick to the trail! There are so many places where people wanted a "shortcut" and cut through a switchback or corner. This increases erosion and destroys the environment. Please be considerate of people, plants, and animals while traveling along, we all live in this world together. Watching where you step is especially important in desert environments because of the cryptobiotic soil that is holding the fragile crust together. Cryptobiotic soil helps prevent erosion, conserves nutrients and water, and allows plants to survive. This soil takes around one hundred years to grow a centimeter so any damage to it can be devastating.
+Finally, stick to the trail! There are so many places where people wanted a "shortcut" and cut through a switchback or corner. This increases erosion and destroys the environment. Please be considerate of people, plants, and animals while traveling along, we all live in this world together. Watching where you step is especially important in desert environments because of the cryptobiotic soil crusts that are holding the fragile crust together. Cryptobiotic soil helps prevent erosion, conserves nutrients and water, and allows plants to survive. This soil takes around one hundred years to grow a centimeter so any damage to it can be devastating.
 
 Get excited about enjoying the great outdoors, and remember to be considerate of everyone and everything during your adventures!

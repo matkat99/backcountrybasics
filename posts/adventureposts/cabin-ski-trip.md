@@ -1,6 +1,6 @@
 ---
 title: Cabin Ski Trip
-description: Ski adventure to the cabin
+description: Cabins are one of my favorite places to hang out, especially during the winter. There is something about the heat of a wood stove warming you up that can’t be beaten. And being able to have incredible views out my window as the first thing I see each morning is a real treat.
 date: 2021-03-31
 tags:
   - adventure

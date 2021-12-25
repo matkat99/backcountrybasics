@@ -1,6 +1,6 @@
 ---
 title: Adventures in the Subway
-description: Canyoneering adventure through the Zion Subway
+description: A canyoneering adventure through the Zion Subway. How the moon opened up an opportunity of awesome adventure.
 date: 2021-05-29
 tags:
   - adventure

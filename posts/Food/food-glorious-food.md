@@ -1,6 +1,6 @@
 ---
 title: Food, Glorious Food!
-description: What to eat in the wilderness
+description: "Food may be one of the most important things that you can plan for when going on any excursion. Whether it be snacks for a day hike or a meal plan for a week-long trip, food is what will keep you moving down the trail. As with most things, it is best to start with the basics: the bare necessities of fueling your hunger."
 date: 2021-06-13
 tags:
   - food

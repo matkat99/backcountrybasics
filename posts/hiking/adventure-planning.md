@@ -1,6 +1,6 @@
 ---
 title: Adventure Planning
-description: How to plan for your next adventure
+description: Planning for anything can take a lot of work, and adventures are no exception. With many backcountry excursions there are a few things that are especially important to include in your plans before you head out.
 date: 2021-08-01
 tags:
   - hiking
@@ -11,7 +11,7 @@ image: /img/adventureplanning.jpg
 
 When I first started planning my own adventures, I came up with what I thought were great ideas of where I wanted to go but had little idea of how to actually accomplish my goals. You may have had similar experiences, and if so, I hope to help you learn how to effectively put together a plan for your next adventure!
 
-As a guide near Zion National Park, I had many opportunities for quick trips on my days off, most of which were put together only a few hours beforehand. Because of this, I became very good at planning short adventures for myself and those who came with me. The first point that I would like you to remember is to not be complacent when going on last-minute excursions. Inadequate preparation and short trips often go hand in hand, so please don't fall into the trap of not planning enough. Always let someone else know where you are going and when you plan on getting back. As well, bring more than enough water and some extra snacks in case things take longer than expected. Something else to think about is an emergency backup plan. When obtaining wilderness permits from the National Park Service you are asked whether you have an emergency plan. These are easy to forget about but very important to have. Consider everything that could go wrong for a particular activity and prepare how to address those mishaps.
+As a guide near Zion National Park, I had many opportunities for quick trips on my days off, most of which were put together only a few hours beforehand. Because of this, I became very good at planning short adventures for myself and those who came with me. The first point that is important to remember is to not be complacent when going on last-minute excursions. Inadequate preparation and short trips often go hand in hand, so please don't fall into the trap of not planning enough. Always let someone else know where you are going and when you plan on getting back. As well, bring more than enough water and some extra snacks in case things take longer than expected. Something else to think about is an emergency backup plan. When obtaining wilderness permits from the National Park Service you are asked whether you have an emergency plan. These are easy to forget about but very important to have. Consider everything that could go wrong for a particular activity and prepare how to address those mishaps.
 
 When planning these short adventures I would go about it one of two ways. First I would decide what/where I wanted to go and then find a few people who were also off and wanted to come or I would find a group first and then we would decide on somewhere to go. These decisions were usually the night before or even on the same day at times but we always made sure that we had the resources needed for a successful trip.
 

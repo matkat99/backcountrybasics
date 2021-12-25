@@ -1,6 +1,6 @@
 ---
 title: Climbing Gear List
-description: What you need to start climbing
+description: If you've spent time with climbers you've probably heard them talk about their gear. You may have also thought to yourself, "what in the world is that?" as you hear about new gear. Fortunately, getting started with climbing only requires a few pieces of equipment with names that aren't too difficult to get your head wrapped around.
 date: 2021-12-13
 tags:
   - climbing

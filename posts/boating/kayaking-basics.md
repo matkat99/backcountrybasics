@@ -1,6 +1,6 @@
 ---
 title: Kayaking Basics
-description: Basics of kayaking
+description: Arguably one of the most intense sports out there, whitewater kayaking allows you the freedom to take your own lines and to really feel the power of the waves. When you are punching through holes and soaring over waves there is a sense of great satisfaction from doing something that most people would never dream of doing.
 date: 2021-05-16
 tags:
   - boating

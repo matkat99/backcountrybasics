@@ -1,6 +1,6 @@
 ---
 title: Hiking Basics
-description: Introduction to hiking
+description: Hiking is an easy way for anyone to start having experiences with the natural world. Whether you want to start off easy with a paved pathway or jump off the deep end to full-day excursions, there are a few things that are important to remember.
 date: 2021-03-31
 tags:
   - hiking

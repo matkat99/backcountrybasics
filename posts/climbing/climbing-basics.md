@@ -1,6 +1,6 @@
 ---
 title: Climbing Basics
-description: Getting started with climbing
+description: With climbing gaining popularity, especially after it's debut in the Olympics, you might be wondering a little more about what makes it so special. Here I've laid out the basics for you to start getting involved in this awesome sport.
 date: 2021-04-15
 tags:
   - climbing

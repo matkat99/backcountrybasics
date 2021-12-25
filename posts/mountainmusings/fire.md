@@ -1,6 +1,6 @@
 ---
 title: Fire
-description: Musings on the power of fire
+description: Fire is something that we have all seen but often take for granted. There is a lot that we can learn from fire if we take the time to observe it.
 date: 2021-03-31
 tags:
   - mountain musings

@@ -1,6 +1,6 @@
 ---
 title: Backpacking Basics
-description: Introduction to Backpacking
+description: Intentially going out into the wilderness with minimal gear is a good idea, unless you don't know what you're doing. Fortunately it doesn't take much to become confident in your ability to survive a night in the backcountry.
 date: 2021-05-23
 tags:
   - camping
@@ -32,7 +32,7 @@ On my necessary list I would include:
 - Water bottle
 - Water filter
 - Stove
-- Cat hole shovel (for when nature calls)
+- Cat hole shovel(fondly referred to as the "pooper scooper") (for when nature calls)
 - Hat
 - One extra change of clothes
 

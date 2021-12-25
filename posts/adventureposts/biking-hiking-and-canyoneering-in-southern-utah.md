@@ -1,6 +1,6 @@
 ---
 title: Biking, Hiking, and Canyoneering in Southern Utah
-description: Final Summer Adventure in the south
+description: A three day escapade in the mountains of southern Utah. It turns out that there's a lot to do down there, I'd definitely recommend spending some time exploring the area to anyone interested in doing exciting things.
 date: 2021-08-28
 tags:
   - adventure

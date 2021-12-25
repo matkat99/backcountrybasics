@@ -1,6 +1,6 @@
 ---
 title: Rafting Basics
-description: Basics of rafting
+description: When a buddy asks if you want to go on a rafting trip the first thing you should say is absolutely! Then you might want to figure out what exactly it means to go on a rafting trip. That's what this article is for (preparing for the trip, not the actual invitation)
 date: 2021-04-24
 tags:
   - boating
@@ -19,7 +19,7 @@ In short, rafting is an absolutely incredible experience and one that I would re
 
 With Commercial trips everything will be taken care of. Food, shelter, gear, etc. On private trips everyone is responsible for being prepared, and in pitching in to cover any permit costs.
 
-In deciding which option to choose, it can help to determine a few more things. First, how long do you want to boat? There are day trips that only last a few hours (that is what I guided), or week-long trips in the middle of nowhere. I love doing both, so it is really up to personal preference. Another thing to decide is how much work you want to do. I have been on many private trips and I have guided lots of trips. I can tell you that a good company will allow you to just show up and they will do the rest. Private trips are a lot of work, but you also have control over how everything will work out. Again, there are pros and cons to each so it is up to you to decide which one sounds more enjoyable.
+In deciding which option to choose, it can help to determine a few more things. First, how long do you want to boat? There are day trips that only last a few hours (that is what I guided), or week-long trips in the middle of nowhere. I love doing both, so it is really up to personal preference. Another thing to decide is how much work you want to do. I have been on many private trips and I have guided lots of commercial trips. I can tell you that a good company will allow you to just show up and they will do the rest. Private trips are a lot of work, but you also have control over how everything will work out. Again, there are pros and cons to each so it is up to you to decide which one sounds more enjoyable.
 
 ### How will you move?
 A boat in and of itself is a good, but without a way to move and maneuver it there isn't much you can actually do. That's why every raft will have oars, paddles, or a motor. For multi-day trips oars are the method of choice for almost every boater. They give you excellent control and the oar frame allows you to strap all of your gear to it. A paddle raft is great for shorter trips and gives everyone the opportunity to participate. Learning to control a paddle raft is much easier to pick up than oars, but requires all participants to work together, adding another level of difficulty.

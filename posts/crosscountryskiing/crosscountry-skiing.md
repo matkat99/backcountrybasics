@@ -1,6 +1,6 @@
 ---
 title: Cross Country Skiing Basics
-description: Basics of cross-country skiing
+description: Nordic or cross-country skiing is one of the best ways to stay active during the snow-filled months of the year. While it is as popular as downhill skiing, nordic skiing has its place in the rankings of best winter sports.
 date: 2021-03-31
 tags:
   - skiing

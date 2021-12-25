@@ -1,6 +1,6 @@
 ---
 title: Introduction
-description: Introduction to the purpose of the blog
+description: Welcome to Backcountry Basics, this is an introduction
 date: 2021-03-31
 tags:
   - mountain musings

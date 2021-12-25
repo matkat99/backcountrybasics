@@ -1,6 +1,6 @@
 ---
 title: Hiking Gear List
-description: What to bring when hiking
+description: Hiking is by far one of the most widely enjoyed recreational activities and it’s easy to see why. It has become so easy to take half a day and breathe in the fresh air of the outdoors with a large number of short trails just waiting to be used. With how accessible many of these are, it is very easy to be under-prepared for these excursions. That’s why I’ve created a short list of some of the basic “must-haves” for a day hike, along with a few extras that I like to bring along.
 date: 2021-03-31
 tags:
   - hiking

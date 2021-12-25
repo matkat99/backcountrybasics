@@ -1,6 +1,6 @@
 ---
 title: A Climate Modest Proposal
-description: How to participate in accelerating climate change
+description: Inspired by Jonathon Swift's "A Modest Proposal", here is a satirical proposition that rather than resisting climate change we embrace it and work to accelerate the warming of the globe. There is a lot that can be done so it is time to get to work!
 date: 2021-12-20
 tags:
   - mountain musings

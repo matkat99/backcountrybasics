@@ -1,6 +1,6 @@
 ---
 title: Mountain Biking Gear List
-description: What you need to start mountain biking
+description: Want to start mountain biking but aren't sure what you need to start? Or maybe a more important question, how much does starting in this sport need to cost? The answer, probably a lot less than you'd think.
 date: 2021-05-08
 tags:
   - biking

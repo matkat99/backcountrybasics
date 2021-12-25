@@ -1,6 +1,6 @@
 ---
 title: Re-Creation
-description: Musings on recreating ourselves
+description: Recreation is more than just an activity that we participate in, it is meant to be something that changes us. By understanding how our experiences with the natural world can change us it helps us plan and prepare to "recreate" ourselves.
 date: 2021-03-31
 tags:
   - mountain musings

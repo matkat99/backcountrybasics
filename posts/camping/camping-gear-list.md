@@ -1,6 +1,6 @@
 ---
 title: Camping Gear List
-description: What to bring when camping
+description: The moment when you arrive at your campsite and realize that you forgot something important is not quickly erased from memory. Even just one piece of equipment can make or break a trip. That’s why I have put together a list explaining many of the necessities for an enjoyable campout.
 date: 2021-04-17
 tags:
   - camping

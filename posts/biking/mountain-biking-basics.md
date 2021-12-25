@@ -1,6 +1,6 @@
 ---
 title: Mountain Biking Basics
-description: Getting started with mountain biking
+description: Whether you’re sending it down some steep single track, cruising through the countryside, or slowly meandering through the forest, biking is a great way to get outside and get a good workout. With this sport’s increasing popularity, it has become commonplace to see cars on the highway with a rack full of bikes.
 date: 2021-04-10
 tags:
   - biking

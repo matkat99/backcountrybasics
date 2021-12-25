@@ -1,6 +1,6 @@
 ---
 title: Rappelling Gear List
-description: What you need to start rappelling
+description: With almost every activity, having the right gear can make a world of difference. Without the right equipment, you are very limited in what you can do. Rappelling is no exception to this, though this can often make it a very intimidating sport to get started on. In the most basic sense, all you really need is a harness, helmet, rappel device, and a rope to get down on. In practice, however, there is a lot more to keep track of.
 date: 2021-06-20
 tags:
   - climbing
@@ -12,7 +12,7 @@ image: /img/rappellinggearlist.jpg
 With almost every activity, having the right gear can make a world of difference. Without the right equipment, you are very limited in what you can do. Rappelling is no exception to this, though this can often make it a very intimidating sport to get started on. In the most basic sense, all you really need is a harness, helmet, rappel device, and a rope to get down on. In practice, however, there is a lot more to keep track of. Throughout this article, I will explain many of the basic pieces of equipment to help you get started on your rappelling adventures!
 
 
-If you’ve read my Rappelling Basics article, you would have learned very briefly about a few items that are critical to getting down a cliff safely. These would be a helmet, a harness, and a rappelling device. Helmets for any sort of mountain sport, whether climbing, canyoneering, or mountaineering, are pretty much the same. When looking for a beginning helmet, look for something durable and affordable. I wouldn’t recommend spending more than $50. The nicer helmets are very lightweight and comfortable, but for starting off the comfort isn’t worth the price.
+If you’ve read my Rappelling Basics article, you would have learned briefly about a few items that are critical to getting down a cliff safely. These would be a helmet, a harness, and a rappelling device. Helmets for any sort of mountain sport, whether climbing, canyoneering, or mountaineering, are pretty much the same. When looking for a beginning helmet, look for something durable and affordable. I wouldn’t recommend spending more than $50. The nicer helmets are very lightweight and comfortable, but for starting off the comfort isn’t worth the price.
 
 ### Harness
 Harnesses are also very versatile between disciplines. If you are just planning on doing rappelling activities such as canyoneering, I would suggest looking for something with wider leg straps and waistband for comfort while hanging. This will add more weight, but I have never regretted rappelling in a thicker, heavier harness.
