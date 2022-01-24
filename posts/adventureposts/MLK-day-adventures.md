@@ -12,7 +12,7 @@ With school being canceled in celebration of Martin Luther King Jr. day I was pr
 
 Monday at 6:30 am we loaded up in the car after scraping ice from the windshield and rolled out of the parking lot. Our destination was Goblin Valley State Park, a place that I had been as a child but have not visited since. It's about a 3-hour drive so we arrived just before 10 am and were astonished by the alien beauty that confronted us.
 
-I had been wanting to go rappelling since it had been several months so while looking online I found what seemed like the perfect place, the "Goblin's Lair". It was a single, 87-foot rappel into a large underground cavern. The task for us was to find the entrance which proved more difficult than we initially imagined.
+I wanted to go rappelling since it had been several months so while looking online I found what seemed like the perfect place, the "Goblin's Lair". It was a single, 87-foot rappel into a large underground cavern. The task for us was to find the entrance which proved more difficult than we initially imagined.
 
 On the park map, it showed a trail going to the lair for normal foot traffic. Because the beta online wasn't very clear about how to get to the anchors I had assumed that they would be somewhere near the main trail. With this in mind, we set off into the desert.
 
