@@ -40,7 +40,7 @@ Several seconds passed before we heard a soft "thud" indicating that I had estim
 
 It was such a good feeling to be coming down a rope again, especially into such a magnificent underground room. I reached the bottom, disconnected, and proceeded to act as the belay while the other three descended into the Goblin's Lair.
 
-Once we were all down I pulled the rope down, which did get caught a few times in the grooves that had been cut from so many others rappelling down previously. After taking off our gear and coiling the rope we scrambled out of the cave and were greeted by the warm sun shining brightly onto our faces.
+Once we were all on the ground I pulled the rope down, which did get caught a few times in the grooves that had been cut from so many others rappelling down previously. After taking off our gear and coiling the rope we scrambled out of the cave and were greeted by the warm sun shining brightly onto our faces.
 
 <img src="/img/theascent.jpg" alt="the exit" class="left">
 
