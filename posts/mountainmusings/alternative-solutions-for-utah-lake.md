@@ -54,7 +54,7 @@ And for addressing the issue of increasing recreation, we can build water slides
 
 ### Solution Five: Mollusks
 
-<img src="/img/mollusk.jpg" alt="Photo by Dibakar Roy from Pexels" class="left">
+<img src="/img/mollusk.jpg" alt="Photo by Dibakar Roy from Pexels" class="left  ">
 
 Many of these previous solutions involve dramatically changing the physical nature of the lake. There is one option that wouldn’t require any building or dredging. That solution calls upon a resource that is already prevalent in the lake: mollusks. Mollusks are one of the few eukaryotic organisms that feast on algae. They thrive on this food source that is plentiful in Utah Lake.
 
