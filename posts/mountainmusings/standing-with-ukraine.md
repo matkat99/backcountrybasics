@@ -1,6 +1,7 @@
 ---
 title: Standing with Ukraine
 description: My thoughts on Putin's invasion of Ukraine. For the sake of these great people, let us work to root out injustice and evil from our society
+
 date: 2022-02-28
 tags:
   - mountain musings
