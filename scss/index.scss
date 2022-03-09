@@ -96,6 +96,14 @@ footer {
     margin-bottom: var(--s0);
     gap: var(--s0);
   }
+  .copy {
+    display: flex;
+    justify-content: space-between;
+  }
+  .social img {
+    width: 32px;
+    margin-left: 0.5em;
+  }
 }
 
 pre,
