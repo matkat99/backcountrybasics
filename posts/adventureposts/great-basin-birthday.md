@@ -4,7 +4,6 @@ description: I've been to a lot of National Parks in the west, but one that had 
 date: 2022-08-10
 tags:
   - adventure
-  - extras
 layout: layouts/post.njk
 image: /img/greatbasinbirthday.jpg
 ---
