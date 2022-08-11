@@ -1,6 +1,6 @@
 ---
 title: Great Basin Birthday
-description: I've been to a lot of National Parks in the west, but one that had escaped my attention was Great Basin National Park. That is, until a very close
+description: I've been to a lot of National Parks in the west, but one that had escaped my attention was Great Basin National Park. That is, until a very close friend told me about it and we planned a trip.
 date: 2022-08-10
 tags:
   - adventure
